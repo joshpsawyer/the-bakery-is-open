@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2018-05-12T13:49:50+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact_thanks/</loc>
+    <lastmod>2018-05-12T13:38:38+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sermons/table-talk-word-of-god-i/</loc>
+    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/hello-world/</loc>
+    <lastmod>2018-05-03T21:08:01+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sermons/institutes-2-11/</loc>
+    <lastmod>2018-05-03T20:12:30+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/kids/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/leaders/</loc>
+    <lastmod>2018-04-30T14:27:13+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-04-30T10:05:49+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/style-guide/</loc>
+    <lastmod>2017-11-14T10:57:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/image-content/</loc>
+    <lastmod>2017-11-14T08:08:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-05-12T13:49:50+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bible/</loc>
+    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/historical/</loc>
+    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/preachers/john-calvin/</loc>
+    <lastmod>2018-05-03T20:12:30+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/preachers/martin-luther/</loc>
+    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ministry/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2018-05-03T21:08:01+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/preachers/</loc>
+    <lastmod>2018-05-03T20:12:30+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/redemption/</loc>
+    <lastmod>2018-05-03T20:12:30+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/scripture/</loc>
+    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/sermons/</loc>
+    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-05-12T13:49:50+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/series/test/</loc>
+    <lastmod>2018-05-11T09:06:46+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/testing/</loc>
+    <lastmod>2018-05-03T21:08:01+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-05-12T13:49:50+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/theology/</loc>
+    <lastmod>2018-05-03T20:12:30+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/two_column/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
